@@ -28,6 +28,9 @@ Job Satisfaction
 
 Work-Life Balance
 
+Education
+
+Gender
 
 🛠️ Tools & Techniques
 Power BI Desktop
@@ -56,6 +59,4 @@ Verified relationships and table structure
 
 📏 DAX Measures
 
-Education
 
-Gender
