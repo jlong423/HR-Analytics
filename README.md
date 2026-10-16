@@ -62,4 +62,31 @@ Verified relationships and table structure
 
 📏 DAX Measures
 
+Total Employees = COUNTROWS('HR')
 
+Total Attrition = 
+CALCULATE(
+    COUNTROWS('HR'),
+    'HR'[Attrition] = "Yes"
+)
+
+Attrition Rate = DIVIDE([Total Attrition], [Total Employees])
+
+Avg Income = AVERAGE('HR'[MonthlyIncome])
+
+Avg Tenure = AVERAGE('HR'[YearsAtCompany])
+
+🔍 Insights
+Employees aged 26–35 show the highest attrition.
+
+The Sales department experiences the most turnover.
+
+Lower monthly income correlates with higher attrition.
+
+Employees with lower job satisfaction leave more frequently.
+
+📦 Files Included
+HR_Analytics.pbix
+
+🚀 Summary
+This project strengthens my Power BI skills and demonstrates my ability to analyze workforce trends using real HR data. It highlights my competency in data cleaning, modeling, DAX, and dashboard storytelling — all essential skills for a data analyst.
