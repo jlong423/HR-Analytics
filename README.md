@@ -2,6 +2,9 @@
 A Power BI project analyzing employee attrition using the IBM HR Analytics dataset. 
 This dashboard explores key factors that influence employee turnover, helping organizations understand workforce trends and improve retention strategies.
 
+<img width="650" height="642" alt="HR Dashboard" src="https://github.com/user-attachments/assets/4b40fc77-f687-4302-9d04-138cd8fbbfe8" />
+
+
 🎯 Purpose
 This project demonstrates core Power BI skills including data cleaning, data modeling, DAX measures, and interactive dashboard design. 
 It is part of my portfolio as I continue developing my skills in data analytics.
