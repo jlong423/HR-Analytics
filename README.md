@@ -76,6 +76,14 @@ Avg Income = AVERAGE('HR'[MonthlyIncome])
 
 Avg Tenure = AVERAGE('HR'[YearsAtCompany])
 
+<img width="210" height="210" alt="HR Attrition by Age Group" src="https://github.com/user-attachments/assets/eebdaecc-0e9a-4be5-89c0-40d539ecbf3b" />
+
+<img width="210" height="210" alt="HR Attrition by Dept" src="https://github.com/user-attachments/assets/8eb5af8d-0f92-44fc-a48c-09551d68a427" />
+
+<img width="210" height="210" alt="HR Attrition by Job Rate" src="https://github.com/user-attachments/assets/8f83927f-9f1a-477b-bbce-22a46a2989e9" />
+
+
+
 🔍 Insights
 Employees aged 26–35 show the highest attrition.
 
